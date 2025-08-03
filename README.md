@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Sanya Singh, an aspiring Software Developer passionate about building impactful AI-powered solutions. From full-stack web apps to deep learning-based security systems, I love transforming ideas into scalable products. Currently exploring Generative AI, Cloud Computing, and hardware-integrated AI systems.
 
 <!--
 **SanyaSingh486/SanyaSingh486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
